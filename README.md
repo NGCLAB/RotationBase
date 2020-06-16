@@ -13,7 +13,9 @@
 
 **模型效果图**
 
-<div align=center>![](./VLP.jpg)
+<div align=center>
+
+![](./VLP.jpg)
 <center>VLP放置效果</center>
 
 ![](./Livox.jpg)
