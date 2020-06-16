@@ -16,8 +16,7 @@
 <div align=center>
 
 ![](./VLP.jpg)
-<center>VLP放置效果</center>
-</div>
-
+VLP放置效果
 ![](./Livox.jpg)
-<center>Livox放置效果</center>
+Livox放置效果
+</div>
