@@ -11,14 +11,10 @@
 | 电调 | C620 |
 |开发板|A型（stm32 F427）|
 
-模型效果图
+**模型效果图**
 
-
-<center>
-
-![](./VLP.jpg)
-VLP放置效果
-</center>
+<div align=center>![](./VLP.jpg)
+<center>VLP放置效果</center>
 
 ![](./Livox.jpg)
 Livox放置效果
