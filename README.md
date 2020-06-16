@@ -19,4 +19,4 @@
 <center>VLP放置效果</center>
 
 ![](./Livox.jpg)
-Livox放置效果
+<center>Livox放置效果</center>
